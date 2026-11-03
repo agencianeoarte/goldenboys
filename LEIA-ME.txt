@@ -1,0 +1,71 @@
+GOLDEN BOYS DETAILERS — SITE ONE PAGE DEMONSTRATIVO
+Criado pela agência Neo Arte | 03/11/2026
+
+1. COMO PUBLICAR
+- Extraia o ZIP.
+- Envie index.html, styles.css, script.js e a pasta assets para public_html/ do domínio.
+- O site é estático (HTML/CSS/JavaScript): não precisa de banco de dados nem de PHP.
+- Todos os botões de WhatsApp levam para +55 45 99928-4768.
+- O formulário cria uma mensagem preenchida no WhatsApp, sem armazenar dados.
+- Os links de Instagram, Maps e Neo Arte já estão configurados.
+
+2. INFORMAÇÕES COMERCIAIS UTILIZADAS
+Empresa: Golden Boys Detailers
+Endereço: Rua Rio de Janeiro, 2744, Centro, Cascavel/PR - 85801-031
+WhatsApp: (45) 99928-4768
+Instagram: https://www.instagram.com/goldenboysdetailers/
+E-mail: goldenboysdetailers@gmail.com (consta em cadastros públicos)
+Atuação desde 2017 (registro empresarial)
+Avaliações: 88 no Google conforme captura textual enviada pelo solicitante em 03/11/2026.
+
+3. MUITO IMPORTANTE — ANTES DE PUBLICAR COMO SITE OFICIAL
+- Confirmar a autorização e aprovação da Golden Boys Detailers para publicar.
+- Substituir a logomarca estilizada proposta por ARQUIVO ORIGINAL da empresa.
+  Neste protótipo, o logotipo desenhado é uma INTERPRETAÇÃO CONCEITUAL;
+  NÃO FOI autenticado como identidade visual oficial.
+- Trocar TODAS as imagens de assets/ por fotografias reais e autorizadas
+  do negócio. As imagens atuais são recortes de uma composição conceitual
+  criada por IA, NÃO fotografias do estabelecimento ou de trabalhos realizados.
+- Conferir se todos os serviços anunciados continuam ativos, além de
+  quaisquer garantias, duração e disponibilidade.
+- Confirmar horários; foram omitidos porque fontes públicas divergem.
+- Atualizar volume de avaliações quando necessário, verificar as citações
+  de comentários e obter aprovação antes de manter depoimentos em site oficial.
+- Publicar com HTTPS, domínio próprio e dados de acesso seguros.
+- Ao publicar, retirar a expressão 'Site demonstrativo' no rodapé se autorizado.
+
+4. VISÃO DE CONCORRÊNCIA E POSICIONAMENTO
+- Eleganccar (Cascavel) tem site com serviços e galeria: eleganccar.com.br.
+- Mac Films (Cascavel) tem site focado em películas e PPF: macfilms.com.br.
+- Paddock Garage aparece com bom volume de avaliações em Cascavel.
+- Diferenciação proposta: priorizar PPF, boa explicação de benefícios,
+  prova social real, atendimento consultivo e conversão pelo WhatsApp.
+- Não foi localizado, na busca realizada, um domínio próprio claramente
+  vinculado à Golden Boys; isso não prova que não exista.
+
+5. FONTES DE PESQUISA (CONSULTADAS EM 03/11/2026)
+https://www.solutudo.com.br/empresas/pr/cascavel/lava-rapido-estetica-automotiva/golden-boys-estetica-automotiva-ltda-6135038
+https://www.consertameucarro.com.br/mais/422184/golden_boys_detailers
+https://www.eleganccar.com.br/
+https://www.macfilms.com.br/
+https://www.instagram.com/goldenboysdetailers/
+
+6. PERSONALIZAÇÃO
+- Cores e tipografia: styles.css, bloco :root.
+- Conteúdo: index.html.
+- Telefone/links: buscar por 5545999284768 e substituir se necessário.
+- Formulário: script.js; envia para o número acima.
+- Favicon: assets/favicon.svg.
+- Logo: elemento .brand em index.html (cabeçalho e rodapé).
+
+LEMBRETE: Este é um protótipo comercial. Não está hospedado nem foi entregue à empresa.
+
+ATUALIZAÇÃO DA LOGOMARCA ORIGINAL (03/11/2026)
+--------------------------------------------
+- Logomarca enviada pelo cliente preservada em assets/logo-original-enviada.png.
+- Versões com exterior transparente usadas no cabeçalho (desktop/tablet/celular), rodapé e favicons.
+- A marca fictícia 'GB' foi retirada do cabeçalho/rodapé e substituída na fotografia conceitual do topo e na foto da seção Sobre.
+- assets/logo-golden-boys-hd.png é uma ampliação da imagem original enviada, sem alteração no desenho, cores ou tipografia.
+- Para publicação oficial, solicite o logo vetorial ou PNG em alta resolução ao cliente.
+
+ATUALIZAÇÃO 03/11/2026 — Imagem da seção PPF substituída por novo arquivo assets/ppf-car-nova.jpg, para evitar cache do arquivo antigo.
